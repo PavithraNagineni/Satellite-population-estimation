@@ -27,5 +27,7 @@ Evaluate prediction accuracy using regression metrics.
 🛰️ Data Sources
 
 AOD (Aerosol Optical Depth)	- INSAT-3D/3DR/3DS (via MOSDAC)
+
 PM2.5 Ground Truth	CPCB India- (https://app.cpcbccr.com/)
+
 Meteorological Variables  - ERA5 or MERRA-2
