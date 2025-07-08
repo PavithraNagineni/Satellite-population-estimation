@@ -102,11 +102,17 @@ Open data API endpoint for developers
 satellite-pm2.5-estimation/
 │
 ├── data/               # Raw & processed datasets
+
 ├── notebooks/          # Jupyter notebooks for EDA, modeling
+
 ├── src/                # Python scripts for preprocessing, training
+
 ├── models/             # Saved model files
+
 ├── outputs/            # Maps, plots, reports
+
 ├── README.md
+
 └── requirements.txt
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
