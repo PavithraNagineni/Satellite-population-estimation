@@ -100,7 +100,7 @@ Open data API endpoint for developers
 📁 Project Structure (tentative)
 
 satellite-pm2.5-estimation/
-│
+
 ├── data/               # Raw & processed datasets
 
 ├── notebooks/          # Jupyter notebooks for EDA, modeling
